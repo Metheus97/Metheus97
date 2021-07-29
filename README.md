@@ -15,11 +15,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Theus-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="rocket" height="120" width="140" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif">
-  ![Snake animation](https://github.com/Metheus97/Metheus97/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ##
 
+<div>
+     ![Snake animation](https://github.com/Metheus97/Metheus97/blob/output/github-contribution-grid-snake.svg)
+  </div>
 ### Seja Bem vindo a minha aventura no mundo tecnológico🚀💻
   
