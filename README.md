@@ -22,5 +22,8 @@
 <div>
      ![Snake animation](https://github.com/Metheus97/Metheus97/blob/output/github-contribution-grid-snake.svg)
   </div>
+  
+  ##
+  
 ### Seja Bem vindo a minha aventura no mundo tecnológico🚀💻
   
