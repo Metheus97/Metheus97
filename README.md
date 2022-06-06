@@ -22,7 +22,7 @@
     
 <div style="display: inline_block"><br>
   
-  ![GitHub Snake dark]( github-snake-dark.svg )
+  ![GitHub Snake dark]( https://github.com/Metheus97/github-snake-dark.svg )
   
 </div>
   
