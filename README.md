@@ -21,8 +21,8 @@
 ### Seja Bem vindo a minha aventura no mundo tecnológico🚀💻
     
 <div style="display: inline_block"><br>
-  uses: Platane/snk/svg-only@v2
-  ![GitHub Snake dark](  )
+
+  ![GitHub Snake dark]( https://github.com/Metheus97/Metheus97/github-contribution-grid-snake.svg )
   
 </div>
   
