@@ -22,7 +22,7 @@
     
 <div style="display: inline_block"><br>
 
-  ![GitHub Snake dark]( https://github.com/Metheus97/Metheus97/github-contribution-grid-snake.svg )
+  ![GitHub Snake dark]( https://github.com/Metheus97/Metheus97/output/github-contribution-grid-snake.svg )
   
 </div>
   
