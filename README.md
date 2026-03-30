@@ -1,6 +1,6 @@
-# Eai, Galera! ✌🍃
+# Olá, turma!
 ## Eu sou o Matheus Pereira
-- 😎 Tenho 24 anos
+- 😎 Tenho 26 anos
 - ⚙ Formado em engenharia de produção
 - 🔍 Extremamente curioso 
 - 💖 Apaixonado por tecnologia 
